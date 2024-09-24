@@ -5,7 +5,7 @@ feature_text: |
   MS in ECE @ Rutgers University | B.S. in ECE & Computer Science @ Rutgers University
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
-{% include figure.html image="assets/images/images1.JPG" position="left"%}
+{% include figure.html image="assets/images/image1.JPG" position="left"%}
 
 ## Features
 
